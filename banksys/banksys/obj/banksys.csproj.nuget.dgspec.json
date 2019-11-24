@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Aline\\RiderProjects\\banksys\\banksys\\banksys.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Aline\\RiderProjects\\banksys\\banksys\\banksys.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aline\\RiderProjects\\banksys\\banksys\\banksys.csproj",
+        "projectName": "banksys",
+        "projectPath": "C:\\Users\\Aline\\RiderProjects\\banksys\\banksys\\banksys.csproj",
+        "packagesPath": "C:\\Users\\Aline\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aline\\RiderProjects\\banksys\\banksys\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aline\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

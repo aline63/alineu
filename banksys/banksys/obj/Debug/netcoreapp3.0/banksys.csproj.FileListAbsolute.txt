@@ -1,0 +1,11 @@
+C:\Users\Aline\RiderProjects\banksys\banksys\bin\Debug\netcoreapp3.0\banksys.exe
+C:\Users\Aline\RiderProjects\banksys\banksys\bin\Debug\netcoreapp3.0\banksys.deps.json
+C:\Users\Aline\RiderProjects\banksys\banksys\bin\Debug\netcoreapp3.0\banksys.runtimeconfig.json
+C:\Users\Aline\RiderProjects\banksys\banksys\bin\Debug\netcoreapp3.0\banksys.runtimeconfig.dev.json
+C:\Users\Aline\RiderProjects\banksys\banksys\bin\Debug\netcoreapp3.0\banksys.dll
+C:\Users\Aline\RiderProjects\banksys\banksys\bin\Debug\netcoreapp3.0\banksys.pdb
+C:\Users\Aline\RiderProjects\banksys\banksys\obj\Debug\netcoreapp3.0\banksys.csprojAssemblyReference.cache
+C:\Users\Aline\RiderProjects\banksys\banksys\obj\Debug\netcoreapp3.0\banksys.AssemblyInfoInputs.cache
+C:\Users\Aline\RiderProjects\banksys\banksys\obj\Debug\netcoreapp3.0\banksys.AssemblyInfo.cs
+C:\Users\Aline\RiderProjects\banksys\banksys\obj\Debug\netcoreapp3.0\banksys.dll
+C:\Users\Aline\RiderProjects\banksys\banksys\obj\Debug\netcoreapp3.0\banksys.pdb
